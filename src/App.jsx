@@ -38,14 +38,14 @@ function HeroVideo() {
   return (
     <section style={{ backgroundColor: '#fff', width: '100%' }}>
       <video
-      className="mt-5"
+        className="mt-5"
         style={{ width: '100%', display: 'block', maxHeight: '650px', objectFit: 'cover' }}
         muted
         autoPlay
         loop
         playsInline
       >
-        <source src="/src/media/2026-03-11 08-47-21.mp4" type="video/mp4" />
+        <source src="https://res.cloudinary.com/dw8xhyvog/video/upload/M8908_qkr4iv.mp4" type="video/mp4" />
       </video>
     </section>
   );
