@@ -155,9 +155,7 @@ export default function ProductPage() {
             </div>
 
             {/* ملاحظة */}
-            <p style={{ color: '#bbb', fontSize: '0.78rem', lineHeight: '1.6', margin: 0 }}>
-              شحن مجاني داخل المملكة العربية السعودية. الطلبات تُعالج خلال 1-3 أيام عمل.
-            </p>
+
 
           </div>
         </div>

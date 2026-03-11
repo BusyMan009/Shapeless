@@ -131,7 +131,7 @@ function ProductSection() {
     label: "PRE-BUILT",
     badge: "إصدار جديد",
     title: "Scyrox V8 Kit",
-    body: <>أحدث ابتكاراتنا — <strong style={{ color: '#000' }}>Scyrox V8</strong>. وزن 22 جرام فقط، مُركب بالكامل وجاهز للاستخدام مباشرة.</>,
+    body: <>أحدث ابتكاراتنا — <strong style={{ color: '#000' }}>Scyrox V8 Kit</strong>. وزن 22 جرام فقط، مُركب بالكامل وجاهز للاستخدام مباشرة.</>,
     tagline: "410",
     originalPrice: "500 ",
     href: "/products/scyrox-v8",
